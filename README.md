@@ -45,7 +45,7 @@ I'm Mayank Mishra, a Full Stack Web Developer specialising in Javascript, React 
 <br />
 
 #### Business
-- :paperclip: [Portfolio](https://github.com/mayankreg/portfolio_web_application)
+- :paperclip: [Portfolio](https://mayankreg.github.io/portfolio_web_application/)
 - :email: mayank.reg@gmail.com
 
 
