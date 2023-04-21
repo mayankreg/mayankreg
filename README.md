@@ -1,6 +1,6 @@
 ## Hi I'm Mayank <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Mayank Mishra, a Full Stack Web Developer specialising in Javascript, React Js, Node Js and a part time Social Media Manager for Content Creators on [Instagram](https://instagram.com/kala_arcade). I love creating responsive and interative websites.
+I'm Mayank Mishra, a Full Stack Web Developer specializing in Javascript, Node Js, React Js & Redux & an enthusiastic Social Media Manager for Content Creators on [Instagram](https://instagram.com/kala_arcade). I love creating responsive & interative websites.
 
 :mailbox: Connect with me!
 
@@ -12,7 +12,7 @@ I'm Mayank Mishra, a Full Stack Web Developer specialising in Javascript, React 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for Full Time job opprtunity.
 - 📫 How to reach me: mayank.reg@gmail.com.
-- ⚡ Fun fact: I love watching & performing standup.
+- ⚡ Fun fact: I love watching & performing StandUps.
 
 #### Top Technologies
 
